@@ -1,0 +1,35 @@
+.container-blog {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.crimson {
+    background-color: crimson;
+}
+
+.button-app {
+    width: 10rem;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background: #000;
+    opacity: .5;
+    z-index: 1500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

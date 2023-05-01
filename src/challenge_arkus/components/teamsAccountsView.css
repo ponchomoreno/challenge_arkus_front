@@ -1,0 +1,43 @@
+.containerTeamsAccounts{
+    width: 100%;
+    height: 100%;
+}
+
+.formatTitleTeamsView{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    width: 50%;
+}
+
+.titleTeamsView{
+    font-weight: bold;
+    font-size: 22px;
+    margin-left: 1rem;
+}
+
+.findTeamsContainer{
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.containerButtonsTeamsActions {
+    display: flex;
+    justify-content: end;
+    padding-right: 3rem;
+}
+
+.containerDialogTeam {
+    width: 90%;
+}
+
+.dialogTeam {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,62 @@
+.containerUsers{
+    width: 100%;
+    height: 100%;
+}
+
+.titleUsersView{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 1rem;
+}
+
+.formatTitle{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    width: 50%;
+}
+
+.findUsersField{
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.buttonNewUser{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    padding-right: 2rem;
+    padding-top: 1rem;
+}
+
+.containerTittleButton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+.tableStyle{
+    margin-top: 3rem;
+}
+
+.containerButtonsUsersActions {
+    display: flex;
+    justify-content: end;
+    padding-right: 3rem;
+}
+
+.containerDialog {
+    width: 90%;
+}
+
+.dialogUser {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
